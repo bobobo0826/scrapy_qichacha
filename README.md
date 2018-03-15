@@ -10,7 +10,7 @@
       
       4、爬取的数据保存在MongoDB qichacha Industry 中
       
-      5、此程序爬取数据以json的形式保存，也可分字段保存
+      5、此程序爬取数据以json的形式保存，也可分字段保存
       
 ## 文件名qichacha_mdata：登录状态（添加了headers和cookie）下爬取动态页面
 
