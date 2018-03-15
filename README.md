@@ -1,5 +1,5 @@
 # scrapy_qichacha:爬取企查查网页信息
-##文件名qichacha_data：未登录状态爬取静态页面
+##  文件名qichacha_data：未登录状态爬取静态页面
 
       1、运行时在终端输入：scrapy crawl qichacha_data
       
@@ -12,7 +12,7 @@
       
       5、此程序爬取数据以json的形式保存，也可分字段保存
       
-##文件名qichacha_mdata：登录状态（添加了headers和cookie）下爬取动态页面
+## 文件名qichacha_mdata：登录状态（添加了headers和cookie）下爬取动态页面
 
       1、首先登录企查查，抓取cookie和user_agent
       
